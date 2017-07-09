@@ -1,0 +1,587 @@
+[ 2017-06-05T21:16:12+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.033915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.034119s ]
+NOTIC: [8] Undefined index: name D:\WWW\dev\register\Application\Home\Controller\CommonController.class.php 第 8 行.
+
+[ 2017-06-05T21:16:15+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.160681s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.160822s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.394079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.394298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.081987s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.082107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.039118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.039223s ]
+
+[ 2017-06-05T21:35:45+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0302s ]
+SQL: SELECT * FROM `p_menber` WHERE `name` = '18883287644' AND `pwd` = '123123'  [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001550s ]
+
+[ 2017-06-05T21:35:45+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0177s ]
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001893s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002502s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061235s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-05T21:35:52+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000460s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000552s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2017-06-05T21:36:25+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 1 AND `type` = 1 AND `states` = 2  [ RunTime:0.0017s ]
+
+[ 2017-06-05T21:37:01+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0014s ]
+
+[ 2017-06-05T21:37:07+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0011s ]
+
+[ 2017-06-05T21:51:12+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001933s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0015s ]
+
+[ 2017-06-05T21:53:06+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0008s ]
+
+[ 2017-06-05T21:54:01+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0017s ]
+
+[ 2017-06-05T21:55:30+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 1 AND `type` = 1 AND `states` = 2  [ RunTime:0.0016s ]
+
+[ 2017-06-05T21:55:43+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 1 AND `type` = 1 AND `states` = 2  [ RunTime:0.0014s ]
+
+[ 2017-06-05T21:55:46+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0018s ]
+
+[ 2017-06-05T21:56:12+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0017s ]
+
+[ 2017-06-05T21:58:24+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002133s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0145s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 1 AND `type` = 1 AND `states` = 2  [ RunTime:0.0018s ]
+
+[ 2017-06-05T21:58:26+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 129 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0102s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0017s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0012s ]
+
+[ 2017-06-05T22:07:21+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0118s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0007s ]
+
+[ 2017-06-05T22:08:45+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0018s ]
+
+[ 2017-06-05T22:16:43+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0131s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0012s ]
+
+[ 2017-06-05T22:16:52+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0108s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0015s ]
+
+[ 2017-06-05T22:27:10+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friend.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002322s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` IN ('2','3')  [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000382s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.293456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.293599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2017-06-05T22:52:45+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001705s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0124s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0010s ]
+
+[ 2017-06-05T22:52:45+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0104s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0007s ]
+
+[ 2017-06-05T22:52:46+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0109s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0009s ]
+
+[ 2017-06-05T22:52:46+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0106s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0006s ]
+
+[ 2017-06-05T22:52:46+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0126s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0019s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0021s ]
+
+[ 2017-06-05T22:52:46+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0132s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0006s ]
+
+[ 2017-06-05T23:00:01+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0132s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0011s ]
+
+[ 2017-06-05T23:00:02+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0127s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0024s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0016s ]
+
+[ 2017-06-05T23:00:24+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 1 AND `type` = 1 AND `states` = 2  [ RunTime:0.0013s ]
+
+[ 2017-06-05T23:00:27+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0134s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0023s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0020s ]
+
+[ 2017-06-05T23:03:13+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0011s ]
+
+[ 2017-06-05T23:03:30+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0113s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0006s ]
+
+[ 2017-06-05T23:03:41+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0131s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0163s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0019s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 7  [ RunTime:0.0014s ]
+
+[ 2017-06-05T23:04:29+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 7  [ RunTime:0.0015s ]
+
+[ 2017-06-05T23:04:44+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0169s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0132s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0026s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0018s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 7  [ RunTime:0.0017s ]
+
+[ 2017-06-05T23:04:51+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu/friendid/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 131 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0129s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = 6 AND `type` = 1 AND `states` = 2  [ RunTime:0.0018s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 7  [ RunTime:0.0014s ]
+

@@ -1,0 +1,1687 @@
+[ 2017-06-08T20:50:49+08:00 ] 127.0.0.1 /register/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+NOTIC: [8] Undefined index: name D:\WWW\dev\register\Application\Home\Controller\CommonController.class.php 第 8 行.
+
+[ 2017-06-08T20:50:51+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001378s ]
+
+[ 2017-06-08T20:51:04+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002263s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2017-06-08T20:51:14+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0958s ]
+SQL: SELECT * FROM `p_menber` WHERE `name` = '18883287644' AND `pwd` = '123456789'  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 17 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001054s ]
+
+[ 2017-06-08T20:51:17+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000365s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001494s ]
+
+[ 2017-06-08T20:51:25+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0149s ]
+SQL: SELECT * FROM `p_menber` WHERE `name` = '18883287644' AND `pwd` = '123123'  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-06-08T20:51:26+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0804s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0194s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000472s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000581s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001562s ]
+
+[ 2017-06-08T20:52:55+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0136s ]
+
+[ 2017-06-08T20:53:32+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0162s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 1  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+
+[ 2017-06-08T20:53:34+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002823s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0219s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0198s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000732s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000902s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002406s ]
+
+[ 2017-06-08T20:53:39+08:00 ] 127.0.0.1 /register/index.php/Home/User/my.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-06-08T20:54:43+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0128s ]
+
+[ 2017-06-08T20:54:49+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000565s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000672s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001447s ]
+
+[ 2017-06-08T20:54:57+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0140s ]
+
+[ 2017-06-08T20:56:50+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0155s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000467s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000568s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002175s ]
+
+[ 2017-06-08T20:59:13+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002090s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0173s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0184s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000718s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000854s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002250s ]
+
+[ 2017-06-08T20:59:21+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0117s ]
+
+[ 2017-06-08T20:59:24+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0143s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000682s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000793s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028503s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2017-06-08T21:02:37+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0161s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000670s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000784s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001821s ]
+
+[ 2017-06-08T21:04:18+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0174s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000934s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035465s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001873s ]
+
+[ 2017-06-08T21:04:23+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0187s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0028s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0035s ]
+SQL: UPDATE `p_menber` SET `incomebag`='61.40' WHERE `uid` = 1 [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0194s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','2','苹果树种子','32','1','1','201706082104236639','2017-06-08 21:04:23','1','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1') [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0168s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2','苹果树种子','2017-06-08','2017-06-08 21:04:23','201706082104236639','1','30') [ RunTime:0.0036s ]
+
+[ 2017-06-08T21:04:25+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002128s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0159s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0042s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000779s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000938s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000961s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001062s ]
+
+[ 2017-06-08T21:09:40+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002237s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0135s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0036s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000466s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000550s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001385s ]
+
+[ 2017-06-08T21:10:42+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0158s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000799s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000927s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2017-06-08T21:26:27+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0167s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000541s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000634s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002229s ]
+
+[ 2017-06-08T21:29:18+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001722s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0174s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0221s ]
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000580s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000722s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002856s ]
+
+[ 2017-06-08T21:31:36+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0139s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 26 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000617s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000783s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001207s ]
+
+[ 2017-06-08T21:31:53+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0189s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0204s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 26 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000827s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003241s ]
+
+[ 2017-06-08T21:31:57+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0188s ]
+
+[ 2017-06-08T21:32:10+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 26 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000469s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000555s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001200s ]
+
+[ 2017-06-08T21:32:27+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0163s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0115s ]
+
+[ 2017-06-08T21:35:17+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0158s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 26 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000476s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000563s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001229s ]
+
+[ 2017-06-08T21:35:47+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003046s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0168s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0218s ]
+
+[ 2017-06-08T21:39:30+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0114s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000464s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000548s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2017-06-08T21:39:41+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?productguoshi=1&productgsid=88
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0119s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 3  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: UPDATE `p_menber` SET `incomebag`='41.40' WHERE `uid` = 1 [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0136s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','3','玫瑰花种子','15','1','1','201706082139415222','2017-06-08 21:39:41','2','10','/register/Public/Uploads/2017-06-03/5932137fb1f21.png','1') [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0129s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2','玫瑰花种子','2017-06-08','2017-06-08 21:39:41','201706082139415222','1','20') [ RunTime:0.0024s ]
+
+[ 2017-06-08T21:39:42+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0167s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041136s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001149s ]
+
+[ 2017-06-08T21:39:50+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0148s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 4  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: UPDATE `p_menber` SET `incomebag`='35.40' WHERE `uid` = 1 [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0117s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','4','萝卜种子','6','1','1','201706082139502819','2017-06-08 21:39:50','2','3','/register/Public/Uploads/2017-06-03/593213e813403.gif','1') [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0137s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2','萝卜种子','2017-06-08','2017-06-08 21:39:50','201706082139502819','1','6') [ RunTime:0.0018s ]
+
+[ 2017-06-08T21:39:51+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0204s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0177s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000622s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000815s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2017-06-08T21:39:55+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0134s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 5  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: UPDATE `p_menber` SET `incomebag`='23.40' WHERE `uid` = 1 [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0156s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','5','香蕉种子','22','1','1','201706082139559034','2017-06-08 21:39:55','1','12','/register/Public/Uploads/2017-06-04/59336b6dde082.gif','1') [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0160s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2','香蕉种子','2017-06-08','2017-06-08 21:39:55','201706082139559034','1','12') [ RunTime:0.0017s ]
+
+[ 2017-06-08T21:39:56+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0136s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000880s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001025s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032688s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001513s ]
+
+[ 2017-06-08T21:40:01+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 6  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: UPDATE `p_menber` SET `incomebag`='13.40' WHERE `uid` = 1 [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0149s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','6',' 西红柿种子','20','1','1','201706082140016747','2017-06-08 21:40:01','1','10','/register/Public/Uploads/2017-06-04/59336ba7ad8fd.gif','1') [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0118s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2',' 西红柿种子','2017-06-08','2017-06-08 21:40:01','201706082140016747','1','10') [ RunTime:0.0017s ]
+
+[ 2017-06-08T21:40:02+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001433s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0252s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000819s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000968s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001617s ]
+
+[ 2017-06-08T21:40:06+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0116s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 7  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0012s ]
+SQL: UPDATE `p_menber` SET `incomebag`='11.40' WHERE `uid` = 1 [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0141s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','7','木瓜种子','4','1','1','201706082140069919','2017-06-08 21:40:06','1','2','/register/Public/Uploads/2017-06-03/593213b5630e0.gif','1') [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0124s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2','木瓜种子','2017-06-08','2017-06-08 21:40:06','201706082140069919','1','2') [ RunTime:0.0013s ]
+
+[ 2017-06-08T21:40:07+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003395s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0177s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0169s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000467s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000553s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+
+[ 2017-06-08T21:42:54+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0145s ]
+
+[ 2017-06-08T21:42:57+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001378s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0115s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000576s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000674s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001221s ]
+
+[ 2017-06-08T21:43:01+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0123s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+
+[ 2017-06-08T21:43:03+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001931s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0168s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0190s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000941s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001665s ]
+
+[ 2017-06-08T21:43:28+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0119s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0033s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0020s ]
+SQL: UPDATE `p_menber` SET `incomebag`='1081.40' WHERE `uid` = 1 [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0129s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','2','苹果树种子','32','1','1','201706082143285823','2017-06-08 21:43:28','1','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1') [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0155s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2','苹果树种子','2017-06-08','2017-06-08 21:43:28','201706082143285823','1','30') [ RunTime:0.0017s ]
+
+[ 2017-06-08T21:43:30+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001996s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0193s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002642s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002855s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002391s ]
+
+[ 2017-06-08T21:43:35+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0168s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: UPDATE `p_menber` SET `incomebag`='991.40' WHERE `uid` = 1 [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0141s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','2','苹果树种子','32','1','1','201706082143355289','2017-06-08 21:43:35','3','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1') [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0119s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('1','2','苹果树种子','2017-06-08','2017-06-08 21:43:35','201706082143355289','1','90') [ RunTime:0.0011s ]
+
+[ 2017-06-08T21:43:37+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0161s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000567s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000718s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2017-06-08T21:45:55+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0112s ]
+
+[ 2017-06-08T21:48:27+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0149s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 31 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000766s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000880s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001424s ]
+
+[ 2017-06-08T21:48:43+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002577s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `p_incomelog` WHERE `type` = 3  [ RunTime:0.0017s ]
+
+[ 2017-06-08T21:49:28+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_incomelog` WHERE `type` = 3  [ RunTime:0.0040s ]
+
+[ 2017-06-08T21:50:15+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001999s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0169s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0171s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 30 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000889s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001710s ]
+
+[ 2017-06-08T21:50:46+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001972s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001939s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0173s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `p_incomelog` WHERE `type` = 3  [ RunTime:0.0036s ]
+
+[ 2017-06-08T21:50:57+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001712s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0219s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `p_incomelog` WHERE `type` = 3  [ RunTime:0.0016s ]
+
+[ 2017-06-08T21:51:21+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3  [ RunTime:0.0016s ]
+
+[ 2017-06-08T21:51:48+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3  [ RunTime:0.0011s ]
+
+[ 2017-06-08T21:53:04+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0119s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 30 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000760s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000894s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001992s ]
+
+[ 2017-06-08T21:53:05+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0181s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 30 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000622s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000759s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001245s ]
+
+[ 2017-06-08T21:53:13+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3  [ RunTime:0.0016s ]
+
+[ 2017-06-08T21:53:25+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0234s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0174s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3  [ RunTime:0.0020s ]
+
+[ 2017-06-08T21:53:37+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0122s ]
+
+[ 2017-06-08T21:59:58+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0128s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3  [ RunTime:0.0011s ]
+
+[ 2017-06-08T22:00:41+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0158s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0186s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0032s ]
+
+[ 2017-06-08T22:06:51+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001510s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0161s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0189s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0018s ]
+
+[ 2017-06-08T22:07:15+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0153s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0149s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2017-06-08T22:14:05+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001934s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0134s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0132s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2017-06-08T22:14:53+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0151s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0018s ]
+
+[ 2017-06-08T22:16:20+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0163s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 86  [ RunTime:0.0020s ]
+
+[ 2017-06-08T22:59:48+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0137s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 78 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000780s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000934s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002118s ]
+
+[ 2017-06-08T23:00:16+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0147s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0117s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 86  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: UPDATE `p_menber` SET `incomebag`='1001.40' WHERE `uid` = 1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0134s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('4','1','出售商品','2017-06-08','2017-06-08 23:00:16','86','1','10') [ RunTime:0.0017s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `logid` = 28  [ RunTime:0.0017s ]
+ERR: 1062:Duplicate entry '28' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`) VALUES ('28','1','86','苹果树种子','32','3','3','201706082143285823','2017-06-08 21:43:28','1','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1','0','9')
+ERR: 1062:Duplicate entry '28' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`) VALUES ('28','1','86','苹果树种子','32','3','3','201706082143285823','2017-06-08 21:43:28','1','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1','0','9')
+
+[ 2017-06-08T23:01:33+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0115s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 79 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000498s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000595s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001431s ]
+
+[ 2017-06-08T23:02:04+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000704s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0157s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0168s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0171s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 86  [ RunTime:0.0028s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0029s ]
+SQL: UPDATE `p_menber` SET `incomebag`='1011.40' WHERE `uid` = 1 [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0175s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('4','1','出售商品','2017-06-08','2017-06-08 23:02:04','86','1','10') [ RunTime:0.0021s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `logid` = 28  [ RunTime:0.0020s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`) VALUES ('0','1','86','苹果树种子','32','3','3','201706082143285823','2017-06-08 21:43:28','1','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1','0','9') [ RunTime:0.0025s ]
+SQL: UPDATE `p_orderlog` SET `states`='4',`output`='0' WHERE `logid` = 28 [ RunTime:0.0030s ]
+
+[ 2017-06-08T23:03:59+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0106s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 79 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000482s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000619s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002439s ]
+
+[ 2017-06-08T23:04:10+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0126s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 86  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0009s ]
+SQL: UPDATE `p_menber` SET `incomebag`='1031.40' WHERE `uid` = 1 [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0145s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('4','1','出售商品','2017-06-08','2017-06-08 23:04:10','86','1','20') [ RunTime:0.0017s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `logid` = 29  [ RunTime:0.0012s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`) VALUES ('0','1','86','苹果树种子','32','3','3','201706082143355289','2017-06-08 21:43:35','3','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1','0','8') [ RunTime:0.0014s ]
+SQL: UPDATE `p_orderlog` SET `states`='4',`output`='2' WHERE `logid` = 29 [ RunTime:0.0011s ]
+
+[ 2017-06-08T23:06:38+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0138s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 79 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000496s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000606s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001200s ]
+
+[ 2017-06-08T23:06:46+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0157s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0116s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0125s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 86  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0008s ]
+SQL: UPDATE `p_menber` SET `incomebag`='1051.40' WHERE `uid` = 1 [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0108s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('4','1','出售商品','2017-06-08','2017-06-08 23:06:46','30','1','20') [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `logid` = 30  [ RunTime:0.0008s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`) VALUES ('0','1','86','苹果树种子','32','3','3','201706082143285823','2017-06-08 21:43:28','1','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1','0','7') [ RunTime:0.0008s ]
+SQL: UPDATE `p_orderlog` SET `states`='4',`output`='2' WHERE `logid` = 30 [ RunTime:0.0007s ]
+
+[ 2017-06-08T23:10:11+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0139s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 21 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 79 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000524s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000640s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002391s ]
+
+[ 2017-06-08T23:10:21+08:00 ] 127.0.0.1 /register/index.php/Home/Index/friendstouqu?land=4&seed=2&_=1496934612107
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0021s ]
+NOTIC: [8] Undefined index: uid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 197 行.
+NOTIC: [8] Undefined index: friendid D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 198 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0203s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0194s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `userid` = null AND `type` = 1 AND `states` = 2  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+
+[ 2017-06-08T23:15:41+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index?number=2&productgsid=86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0125s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0121s ]
+SQL: SELECT SUM(output) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 1  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 86  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0011s ]
+SQL: UPDATE `p_menber` SET `incomebag`='1081.40' WHERE `uid` = 1 [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_incomelog` [ RunTime:0.0116s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('4','1','出售商品','2017-06-08','2017-06-08 23:15:41','31','1','30') [ RunTime:0.0018s ]
+SQL: UPDATE `p_orderlog` SET `states`='4' WHERE `logid` = 31 [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 86  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0015s ]
+SQL: UPDATE `p_menber` SET `incomebag`='1141.40' WHERE `uid` = 1 [ RunTime:0.0012s ]
+SQL: INSERT INTO `p_incomelog` (`type`,`state`,`reson`,`addymd`,`addtime`,`orderid`,`userid`,`income`) VALUES ('4','1','出售商品','2017-06-08','2017-06-08 23:15:41','32','1','60') [ RunTime:0.0012s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `logid` = 32  [ RunTime:0.0015s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`) VALUES ('0','1','86','苹果树种子','32','3','3','201706082143285823','2017-06-08 21:43:28','1','30','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1','0','1') [ RunTime:0.0014s ]
+SQL: UPDATE `p_orderlog` SET `states`='4',`output`='6' WHERE `logid` = 32 [ RunTime:0.0013s ]
+

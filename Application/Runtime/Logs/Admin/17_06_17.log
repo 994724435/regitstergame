@@ -1,0 +1,160 @@
+[ 2017-06-17T20:39:14+08:00 ] 127.0.0.1 /register/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+NOTIC: [8] Undefined index: uname D:\WWW\dev\register\Application\Admin\Controller\CommonController.class.php 第 7 行.
+
+[ 2017-06-17T20:39:17+08:00 ] 127.0.0.1 /register/index.php/Admin/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001581s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.162974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.163104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001314s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002263s ]
+
+[ 2017-06-17T20:39:21+08:00 ] 127.0.0.1 /register/index.php/Admin/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001467s ]
+SQL: SHOW COLUMNS FROM `p_user` [ RunTime:0.0382s ]
+SQL: SELECT * FROM `p_user` WHERE `name` = 'admin' AND `password` = '123asd'  [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000252s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013957s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001071s ]
+
+[ 2017-06-17T20:39:22+08:00 ] 127.0.0.1 /register/index.php/Admin/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+SQL: SHOW COLUMNS FROM `p_user` [ RunTime:0.0177s ]
+SQL: SELECT * FROM `p_user` WHERE `name` = 'admin'  [ RunTime:0.0018s ]
+SQL: SELECT * FROM `p_user`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Public/conn/header.html): failed to open stream: No such file or directory D:\WWW\dev\register\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000303s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000529s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002253s ]
+
+[ 2017-06-17T21:14:35+08:00 ] 127.0.0.1 /register/index.php/Admin/User/dealbigdog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002186s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 2 AND `states` = 0 AND `productid` = 93  [ RunTime:0.0026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001616s ]
+
+[ 2017-06-17T21:14:54+08:00 ] 127.0.0.1 /register/index.php/Admin/User/dealbigdog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 2 AND `states` = 0 AND `productid` = 93  [ RunTime:0.0018s ]
+
+[ 2017-06-17T21:15:13+08:00 ] 127.0.0.1 /register/index.php/Admin/User/dealbigdog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 2 AND `states` = 0 AND `productid` = 93  [ RunTime:0.0025s ]
+
+[ 2017-06-17T21:15:15+08:00 ] 127.0.0.1 /register/index.php/Admin/User/dealbigdog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 2 AND `states` = 0 AND `productid` = 93  [ RunTime:0.0039s ]
+
+[ 2017-06-17T21:18:14+08:00 ] 127.0.0.1 /register/index.php/Admin/User/dealbigdog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 2 AND `states` = 0 AND `productid` = 93  [ RunTime:0.0029s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`,`iscao`,`ischong`,`iswater`,`ischucao`,`ischuchong`) VALUES ('0','9','0','狗','9','2','0','201706112022396355','2017-06-11 20:22:39','2','6','/register/Public/Uploads/2017-06-03/59321585e2f08.gif','5','64','20','0','0','0','0','0') [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001550s ]
+
+[ 2017-06-17T21:19:39+08:00 ] 127.0.0.1 /register/index.php/Admin/User/dealbigdog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 2 AND `states` = 0 AND `productid` = 93  [ RunTime:0.0023s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`,`iscao`,`ischong`,`iswater`,`ischucao`,`ischuchong`) VALUES ('0','9','8','狗','9','2','0','201706112022396355','2017-06-11 20:22:39','2','6','/register/Public/Uploads/2017-06-03/59321585e2f08.gif','5','64','20','0','0','0','0','0') [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001097s ]
+
+[ 2017-06-17T21:19:45+08:00 ] 127.0.0.1 /register/index.php/Admin/User/dealbigdog
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001238s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0165s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 2 AND `states` = 0 AND `productid` = 93  [ RunTime:0.0024s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`,`iscao`,`ischong`,`iswater`,`ischucao`,`ischuchong`) VALUES ('0','9','8','狗','9','2','0','201706112022396355','2017-06-11 20:22:39','2','6','/register/Public/Uploads/2017-06-03/59321585e2f08.gif','5','64','20','0','0','0','0','0') [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001403s ]
+

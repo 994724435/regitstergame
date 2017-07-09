@@ -1,0 +1,867 @@
+[ 2017-06-13T20:41:38+08:00 ] 127.0.0.1 /register/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011720s ]
+NOTIC: [8] Undefined index: name D:\WWW\dev\register\Application\Home\Controller\CommonController.class.php 第 8 行.
+
+[ 2017-06-13T20:41:40+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.016001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.016161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.193364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.193485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017111s ]
+
+[ 2017-06-13T22:17:46+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 3  [ RunTime:0.0025s ]
+
+[ 2017-06-13T22:17:49+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 3  [ RunTime:0.0017s ]
+
+[ 2017-06-13T22:27:20+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 3  [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: num D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 103 行.
+
+[ 2017-06-13T22:27:38+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 3  [ RunTime:0.0025s ]
+NOTIC: [8] Undefined index: num D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 103 行.
+
+[ 2017-06-13T22:27:46+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 3  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: num D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 103 行.
+
+[ 2017-06-13T22:31:28+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+ERR: 参数错误或者未定义:uid
+
+[ 2017-06-13T22:32:06+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+ERR: 参数错误或者未定义:uid
+
+[ 2017-06-13T22:32:15+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001258s ]
+ERR: 参数错误或者未定义:uid
+
+[ 2017-06-13T22:32:27+08:00 ] 127.0.0.1 /register/index.php/Home/Login/dealpro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 3  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: num D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0163s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','3','玫瑰花种子','0','1','0','6','2017-06-13 22:32:27','2','0','/register/Public/Uploads/2017-06-03/5932137fb1f21.png','1') [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001303s ]
+
+[ 2017-06-13T22:45:08+08:00 ] 127.0.0.1 /register/index.php/Home/Login/reg?uid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+NOTIC: [8] Undefined index: name D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043138s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001087s ]
+
+[ 2017-06-13T22:45:15+08:00 ] 127.0.0.1 /register/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013122s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001258s ]
+
+[ 2017-06-13T22:45:50+08:00 ] 127.0.0.1 /register/index.php/Home/Login/reg?uid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `p_menber` WHERE `name` = '18883287666'  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 50 行.
+SQL: INSERT INTO `p_menber` (`friends`,`name`,`pwd`,`type`,`addtime`,`addymd`,`incomebag`) VALUES ('1','18883287666','123','1','2017-06-13 22:45:49','2017-06-13','0') [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `p_gift` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `p_gift` WHERE `type` = 1  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: num D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 117 行.
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0120s ]
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','2','苹果树种子','0','1','0','9','2017-06-13 22:45:49','2','0','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1') [ RunTime:0.0028s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 1  [ RunTime:0.0024s ]
+NOTIC: [8] Undefined index: num D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 117 行.
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('1','1','狗粮','0','2','0','9','2017-06-13 22:45:49','3','0','/register/Public/Uploads/2017-06-03/5932132326bd5.png','0') [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_gift` WHERE `type` = 2  [ RunTime:0.0019s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: num D:\WWW\dev\register\Application\Home\Controller\LoginController.class.php 第 117 行.
+SQL: INSERT INTO `p_orderlog` (`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`) VALUES ('9','2','苹果树种子','0','1','0','1','2017-06-13 22:45:50','1','0','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1') [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 1  [ RunTime:0.0018s ]
+SQL: UPDATE `p_menber` SET `friends`='2,3,8,9' WHERE `uid` = 1 [ RunTime:0.0018s ]
+
+[ 2017-06-13T22:45:52+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0286s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0248s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0062s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0038s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0041s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0032s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0034s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0051s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0024s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0017s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0018s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0023s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0032s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0025s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0025s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000384s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000477s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001384s ]
+
+[ 2017-06-13T22:46:31+08:00 ] 127.0.0.1 /register/index.php/Home/Index/sowing?land=1&seed=2&uid=9&_=1497365152786
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0148s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0  [ RunTime:0.0026s ]
+SQL: UPDATE `p_orderlog` SET `num`='1' WHERE `logid` = 66 [ RunTime:0.0018s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0030s ]
+SQL: INSERT INTO `p_orderlog` (`logid`,`userid`,`productid`,`productname`,`productmoney`,`type`,`states`,`orderid`,`addtime`,`num`,`prices`,`pic`,`life`,`land`,`output`,`iscao`,`ischong`,`iswater`,`ischucao`,`ischuchong`) VALUES ('0','1','90','苹果树种子','0','3','1','9','2017-06-13 22:46:31','1','0','/register/Public/Uploads/2017-06-03/59321417c7f08.gif','1','1','5','0','0','0','0','0') [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001572s ]
+
+[ 2017-06-13T22:46:31+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0181s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0152s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0039s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0018s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0024s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0028s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0021s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0018s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0021s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0023s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000432s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000553s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001806s ]
+
+[ 2017-06-13T22:46:34+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0136s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0169s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0027s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0023s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0021s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0024s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0023s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0024s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000388s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000482s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037998s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001782s ]
+
+[ 2017-06-13T22:46:40+08:00 ] 127.0.0.1 /register/index.php/Home/Index/sowing?land=2&seed=2&uid=9&_=1497365194703
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0013s ]
+SQL: UPDATE `p_orderlog` SET `output`='5',`productid`='90',`type`='3',`states`='1',`addtime`='2017-06-13 22:46:40',`num`='1',`land`='2' WHERE `logid` = 66 [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000988s ]
+
+[ 2017-06-13T22:46:40+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001796s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0168s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0135s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0141s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0029s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0017s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000544s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000670s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001009s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001108s ]
+
+[ 2017-06-13T22:46:43+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0166s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0155s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0025s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0018s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0020s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0024s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000386s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000473s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001447s ]
+
+[ 2017-06-13T22:46:47+08:00 ] 127.0.0.1 /register/index.php/Home/Index/sowing?land=1&seed=2&uid=9&_=1497365203880
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `p_product` WHERE `id` = 2  [ RunTime:0.0009s ]
+SQL: UPDATE `p_orderlog` SET `output`='5',`productid`='90',`type`='3',`states`='1',`addtime`='2017-06-13 22:46:47',`num`='1',`land`='1' WHERE `logid` = 68 [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2017-06-13T22:46:47+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001944s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0173s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0127s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0019s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0012s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0015s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000620s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000744s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032135s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002022s ]
+
+[ 2017-06-13T22:46:50+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0138s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0151s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0019s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000361s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000467s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003304s ]
+
+[ 2017-06-13T22:46:57+08:00 ] 127.0.0.1 /register/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+SQL: SHOW COLUMNS FROM `p_menber` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `p_menber` WHERE `uid` = 9  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `p_product` [ RunTime:0.0149s ]
+SQL: SHOW COLUMNS FROM `p_orderlog` [ RunTime:0.0212s ]
+NOTIC: [8] Undefined index: productguoshi D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: shangdian D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 104 行.
+SQL: SELECT * FROM `p_product` WHERE `type` IN ('1','2','3') ORDER BY id asc  [ RunTime:0.0046s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 1 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 2 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 3 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 4 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0033s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 5 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 6 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 7 AND `type` = 1 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 81 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 82 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 83 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 84 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 85 AND `type` = 2 AND `states` = 0 AND `userid` = 9 LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 86 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 87 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 88 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 89 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 90 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 91 AND `type` = 3 AND `states` = 3 AND `userid` = 9 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 1 AND `num` = 1 AND `userid` = 9  [ RunTime:0.0036s ]
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 2 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 3 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0037s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 4 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0018s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 5 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0036s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 6 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0018s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 7 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0043s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 8 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 9 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0028s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 10 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0030s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 11 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0023s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 12 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0026s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 13 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0027s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 14 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0022s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT * FROM `p_orderlog` WHERE `type` = 3 AND (  states IN (1,2) ) AND `land` = 15 AND `num` = 1 AND `userid` = 9 AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) ) AND (  states IN (1,2) )  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\dev\register\Application\Home\Controller\IndexController.class.php 第 202 行.
+SQL: SELECT SUM(num) AS tp_sum FROM `p_orderlog` WHERE `productid` = 8 AND `states` = 0 LIMIT 1   [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000359s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001899s ]
+
